@@ -5,11 +5,8 @@ def transform_data(data):
     transformed = []
 
     try:
-        for item in data:
 
-            if item["valor"] < 0:
-                print(f"Valor invalido na nota {item['numero']}")
-                continue
+        for item in data:
 
             transformed.append((
                 item["numero"],
@@ -24,5 +21,7 @@ def transform_data(data):
         return transformed
 
     except Exception as error:
+
         print(f"Erro na transformacao: {error}")
+
         return []

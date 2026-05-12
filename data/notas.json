@@ -33,5 +33,40 @@
     "cliente": "Empresa E",
     "valor": 5600,
     "imposto": 560
+  },
+  {
+    "numero": "NF006",
+    "data": "2024-01-15",
+    "cliente": "Empresa F",
+    "valor": 1600,
+    "imposto": 160
+  },
+  {
+    "numero": "NF007",
+    "data": "2024-01-20",
+    "cliente": "Empresa G",
+    "valor": 3900,
+    "imposto": 390
+  },
+  {
+    "numero": "NF008",
+    "data": "2024-01-21",
+    "cliente": "Empresa H",
+    "valor": 4500,
+    "imposto": 450
+  },
+  {
+    "numero": "NF009",
+    "data": "2024-01-22",
+    "cliente": "Empresa I",
+    "valor": 1700,
+    "imposto": 170
+  },
+  {
+  "numero": "NF999",
+  "data": "2024-01-20",
+  "cliente": "Empresa Teste",
+  "valor": -500,
+  "imposto": 50
   }
 ]
