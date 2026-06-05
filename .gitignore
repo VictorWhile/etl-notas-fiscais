@@ -1,4 +1,26 @@
+# Ambiente virtual
 venv/
-__pycache__/
+
+# Variáveis de ambiente
 .env
+
+# Cache Python
+__pycache__/
 *.pyc
+
+# Logs
+*.log
+logs/
+
+# Arquivos gerados
+output/*.csv
+
+# VS Code
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Docker
+postgres_data/

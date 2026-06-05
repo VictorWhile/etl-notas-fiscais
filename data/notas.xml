@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<notas>
+
+    <nota>
+        <numero>NF100</numero>
+        <data>2024-02-01</data>
+        <cliente>Empresa XML A</cliente>
+        <valor>5000</valor>
+        <imposto>500</imposto>
+    </nota>
+
+    <nota>
+        <numero>NF101</numero>
+        <data>2024-02-02</data>
+        <cliente>Empresa XML B</cliente>
+        <valor>7200</valor>
+        <imposto>720</imposto>
+    </nota>
+
+</notas>
